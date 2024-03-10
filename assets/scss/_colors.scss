@@ -1,0 +1,71 @@
+$C1A: #1A1A1A;
+$C20: #20CE70;
+$C207: #20CE7012;
+$CEC: #EC7A2A;
+$CEC7: #EC7A2A12;
+$CEF: #EF5858;
+$CEF7: #EF585812;
+$C95: #95959A80;
+$CF00: #FFFFFF00;
+$C26: #262626;
+$C21: #212121;
+$CFFF: #FFFFFF;
+$CBA: #BABAC280;
+$C95: #95959A80;
+$C33: #333333;
+
+
+._cba {
+    color: $CBA;
+}
+
+._c95 {
+    color: $C95;
+}
+
+._c20 {
+    color: $C20;
+}
+
+._cec {
+    color: $CEC;
+}
+
+._cef {
+    color: $CEF;
+}
+
+.b_c21 {
+    background: $C21;
+}
+
+.b_c33 {
+    background: $C33;
+}
+
+.b_c26 {
+    background: $C26;
+}
+
+.b_c207 {
+    background: $C207;
+}
+
+.b_cec7 {
+    background: $CEC7;
+}
+
+.b_cef7 {
+    background: $CEF7;
+}
+
+.w {
+    color: $CFFF;
+}
+
+._cw {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
