@@ -1,7 +1,5 @@
 <template>
-    <div>
-dfdjfhdf
-    </div>
+    <div></div>
 </template>
 
 <script setup>
